@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculador de Gasto</string>
+    <string name="calcular">Calcular</string>
+    <string name="numeroViajeros">Numero de viajeros</string>
+    <string name="informacion">Pulsa calcular</string>
+    <string name="infoViajeros">El número de viajeros es:</string>
+</resources>
